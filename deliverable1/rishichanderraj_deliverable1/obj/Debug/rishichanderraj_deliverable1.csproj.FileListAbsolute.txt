@@ -1,0 +1,7 @@
+C:\Users\rchander\Desktop\frand_circus\rishichanderraj_deliverable1\rishichanderraj_deliverable1\bin\Debug\rishichanderraj_deliverable1.exe.config
+C:\Users\rchander\Desktop\frand_circus\rishichanderraj_deliverable1\rishichanderraj_deliverable1\bin\Debug\rishichanderraj_deliverable1.exe
+C:\Users\rchander\Desktop\frand_circus\rishichanderraj_deliverable1\rishichanderraj_deliverable1\bin\Debug\rishichanderraj_deliverable1.pdb
+C:\Users\rchander\Desktop\frand_circus\rishichanderraj_deliverable1\rishichanderraj_deliverable1\obj\Debug\rishichanderraj_deliverable1.csprojAssemblyReference.cache
+C:\Users\rchander\Desktop\frand_circus\rishichanderraj_deliverable1\rishichanderraj_deliverable1\obj\Debug\rishichanderraj_deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\rchander\Desktop\frand_circus\rishichanderraj_deliverable1\rishichanderraj_deliverable1\obj\Debug\rishichanderraj_deliverable1.exe
+C:\Users\rchander\Desktop\frand_circus\rishichanderraj_deliverable1\rishichanderraj_deliverable1\obj\Debug\rishichanderraj_deliverable1.pdb
